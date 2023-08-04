@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-  <img src="https://w7.pngwing.com/pngs/646/864/png-transparent-super-mario-bros-super-mario-64-super-mario-world-space-invaders-classic-text-super-mario-bros-rectangle.png", width = "15%">
+  <img src="https://cdn.pixabay.com/photo/2021/02/11/15/40/mario-6005703_1280.png", width = "15%">
 <h3 align="center">Super Mario Bros Tic Tac Toe</h3>
 <p align="center"><b>By:</b> Adrian Marino</p>
 <p align="center"><b>Supervisors: Professor Carlos Izquierdo</b></p>
