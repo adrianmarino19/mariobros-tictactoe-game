@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/H%26M-Logo.svg", width = "15%">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2001318143248009367/2F39A228674B03909F710F56DDAF493EA4682508/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", width = "15%">
 <h3 align="center">Super Mario Bros Tic Tac Toe</h3>
 <p align="center"><b>By:</b> Adrian Marino</p>
 <p align="center"><b>Supervisors: Professor Carlos Izquierdo</b></p>
