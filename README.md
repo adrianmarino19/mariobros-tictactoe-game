@@ -3,7 +3,7 @@
   <img src="https://cdn.pixabay.com/photo/2021/02/11/15/40/mario-6005703_1280.png", width = "15%">
 <h3 align="center">Super Mario  Tic Tac Toe</h3>
 <p align="center"><b>By:</b> Adrian Marino</p>
-<p align="center"><b>Supervisors: Professor Carlos Izquierdo</b></p>
+<p align="center"><b>Supervisors:</b> Professor Carlos Izquierdo</b></p>
 
 
 
