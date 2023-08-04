@@ -1,9 +1,7 @@
 <p align="center">
   <p align="center">
-  ![Alt Text](https://steamcommunity.com/sharedfiles/filedetails/?id=2902675827)
-</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/H%26M-Logo.svg", width = "15%">
 <h3 align="center">Super Mario Bros Tic Tac Toe</h3>
-
 <p align="center"><b>By:</b> Adrian Marino</p>
 <p align="center"><b>Supervisors: Professor Carlos Izquierdo</b></p>
 
