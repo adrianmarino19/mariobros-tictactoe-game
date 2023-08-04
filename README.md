@@ -5,15 +5,14 @@
 <h3 align="center">Super Mario Bros Tic Tac Toe</h3>
 
 <p align="center"><b>By:</b> Adrian Marino</p>
-<p align="center"><b>Supervisors:</b> Gustavo Martín Vela & Pepe García</p>
+<p align="center"><b>Supervisors: Professor Carlos Izquierdo</b></p>
 
 
 
 <body>
     <h1>Mario's Nerdy Tic Tac Toe Game!</h1>
-    <h3>By Adrian Marino, Master in Computer Science</h3>
-        <p>My project consists of a Mario esque Tic-Tac-Toe game that using HTML, CSS, and JavaScript. The game is only playable between two people (unfortunately!) and displays a random programming joke when a player wins. If the result of the game is a draw, as a punishment Mario will not tell you a joke :).</p>
-        <p>I got inspired to create this since I'm interested in game development (taking the gaming development electives next semester). Initially, I thought about starting with a more complex game (initially frogger, then flappy bird, etc.) but they were unfortunately too complex for my skills at the moment. So to start, I thought Tic Tac Toe was better. Also, this project gave me the chance to get my feet wet with JavaScript (but not going down the rabbit hole) while focusing on HTML and CSS as well.</p>
+        <p>Project consists of a Mario esque Tic-Tac-Toe game that using HTML, CSS, and JavaScript. The game is only playable between two people (unfortunately!) and displays a random programming joke when a player wins. If the game is drawn, as a punishment Mario will not tell you a joke :).</p>
+        <p>This project gave me the chance to get my feet wet with JavaScript (but not going down the rabbit hole) while focusing on HTML and CSS as well.</p>
     
     <br>
     <h2>Link to the project</h2>
