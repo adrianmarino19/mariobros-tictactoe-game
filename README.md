@@ -1,20 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>My Tic Tac Toe Game</title>
-    <style>
-        @font-face {
-         font-family: 'Roboto';
-         src: url('https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu72xKOzY.woff2') format('woff2');
-        }
+<p align="center">
+  <p align="center">
+  <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=2902675827", width = "15%">
+</p>
+<h3 align="center">Super Mario Bros Tic Tac Toe</h3>
 
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 80px;
-        }
-  </style>
-</head>
+<p align="center"><b>By:</b> Adrian Marino</p>
+<p align="center"><b>Supervisors:</b> Gustavo Martín Vela & Pepe García</p>
+
+
+
 <body>
     <h1>Mario's Nerdy Tic Tac Toe Game!</h1>
     <h3>By Adrian Marino, Master in Computer Science</h3>
