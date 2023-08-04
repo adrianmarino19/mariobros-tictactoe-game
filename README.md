@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-  <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=2902675827", width = "15%">
+  <img src="https://www.google.com/search?q=mario+tic+tac+toe+png&tbm=isch&ved=2ahUKEwj9yqGO-cGAAxWJppUCHdk-BuEQ2-cCegQIABAA&oq=mario+tic+tac+toe+png&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAcQHjoGCAAQCBAeOgcIABAYEIAEOgQIABAeOgYIABAFEB5Q6AFYswRgngVoAHAAeACAAbABiAGGBJIBAzEuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=6WDMZL2yNInN1sQP2f2YiA4&bih=698&biw=1440#imgrc=MjOnN3mdYMqNUM", width = "15%">
 </p>
 <h3 align="center">Super Mario Bros Tic Tac Toe</h3>
 
