@@ -11,7 +11,7 @@
     <h1>Mario's Nerdy Tic Tac Toe Game!</h1>
         <p>This project consists of a Mario esque Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game is only playable between two people (unfortunately!) and displays a random programming joke when a player wins. If the game is drawn, as a punishment Mario will not tell you a joke :).</p>
         <p>This project gave me the chance to get my feet wet with JavaScript (but not going down the rabbit hole) while focusing on HTML and CSS as well.</p>
-    Link to the project
+    Link to the project:<br>
       Used Netlify: <a href="https://mario-tic-tac-toe.netlify.app"> https://mario-tic-tac-toe.netlify.app</a>
    
     <h2>Technical Details</h2>
