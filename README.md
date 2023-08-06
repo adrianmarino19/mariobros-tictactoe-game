@@ -5,10 +5,6 @@
 <p align="center"><b>By:</b> Adrian Marino</p>
 <p align="center"><b>Supervisors:</b> Professor Carlos Izquierdo</b></p>
 
-# My Tic Tac Toe Game
-
-## Mario's Nerdy Tic Tac Toe Game!
-### By Adrian Marino, Master in Computer Science
 
 My project consists of a Mario esque Tic-Tac-Toe game that uses HTML, CSS, and JavaScript. The game is only playable between two people and displays a random programming joke when a player wins. If the result of the game is a draw, Mario will not tell you a joke :).
 
